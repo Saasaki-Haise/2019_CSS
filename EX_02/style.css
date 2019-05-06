@@ -1,0 +1,13 @@
+div  p {
+    background: yellow;
+}
+div > p {
+   
+    color: red;
+}
+div + p {
+    border: #32a1ce 5px double;
+ }
+div ~ p {
+    padding: 0.5rem;
+}
